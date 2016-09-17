@@ -146,6 +146,8 @@
             Bundle 'reedes/vim-textobj-sentence'
             Bundle 'reedes/vim-textobj-quote'
             Bundle 'reedes/vim-wordy'
+            Bundle 'junegunn/goyo.vim'
+            Bundle 'amix/vim-zenroom2'
         endif
     " }
 
